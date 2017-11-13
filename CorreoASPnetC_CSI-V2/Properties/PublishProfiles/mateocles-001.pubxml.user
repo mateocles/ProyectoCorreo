@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://ftp.mywindowshosting.com/site1</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/CorreoASPnetC_CSI-V2.dll">
+      <publishTime>05/28/2017 23:54:13</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>06/17/2016 18:28:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="Css/2.jpg">
+      <publishTime>05/28/2017 12:04:06</publishTime>
+    </File>
+    <File Include="Css/banner-bg.jpg">
+      <publishTime>05/28/2017 12:04:06</publishTime>
+    </File>
+    <File Include="Css/estilos.css">
+      <publishTime>05/28/2017 12:04:06</publishTime>
+    </File>
+    <File Include="Css/estilos_1.css">
+      <publishTime>05/28/2017 12:04:06</publishTime>
+    </File>
+    <File Include="Css/estilos_1_1.css">
+      <publishTime>05/28/2017 12:04:06</publishTime>
+    </File>
+    <File Include="Css/exclamation_warning_15590.png">
+      <publishTime>05/28/2017 12:04:06</publishTime>
+    </File>
+    <File Include="Css/Fondologin.jpg">
+      <publishTime>05/28/2017 12:04:08</publishTime>
+    </File>
+    <File Include="Css/FondoRegistro.jpg">
+      <publishTime>05/28/2017 12:04:08</publishTime>
+    </File>
+    <File Include="Css/fondo_registro.jpg">
+      <publishTime>05/28/2017 12:04:06</publishTime>
+    </File>
+    <File Include="Css/imageusu.png">
+      <publishTime>05/28/2017 12:04:08</publishTime>
+    </File>
+    <File Include="Css/IMG_513365.jpg">
+      <publishTime>05/28/2017 12:04:09</publishTime>
+    </File>
+    <File Include="Css/intro-bg.jpg">
+      <publishTime>05/28/2017 12:04:09</publishTime>
+    </File>
+    <File Include="Css/MetroUI_Mail.png">
+      <publishTime>05/28/2017 12:04:11</publishTime>
+    </File>
+    <File Include="Css/MetroUI_Mail_1.png">
+      <publishTime>05/28/2017 12:04:11</publishTime>
+    </File>
+    <File Include="Css/usu.png">
+      <publishTime>05/28/2017 12:04:12</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Vistas/DatosPersonales.aspx">
+      <publishTime>05/28/2017 23:52:03</publishTime>
+    </File>
+    <File Include="Vistas/Login.aspx">
+      <publishTime>05/28/2017 13:07:05</publishTime>
+    </File>
+    <File Include="Vistas/Menu.aspx">
+      <publishTime>05/28/2017 17:26:54</publishTime>
+    </File>
+    <File Include="Vistas/Registro.aspx">
+      <publishTime>05/28/2017 16:50:07</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/29/2017 01:00:33</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

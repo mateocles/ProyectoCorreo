@@ -1,0 +1,109 @@
+﻿ *{
+    margin: auto;
+    padding: 0px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('./Fondologin.jpg');
+    display: flex;
+    min-height: 100vh;
+    background-size: 100%;
+}
+
+
+h1 {
+    text-align: center;
+    margin-bottom: 40px;
+    color: rgba(0,0,0,0.8);
+    font: 100;
+}
+
+
+.url img {
+    width: 115px;
+    height: 60px;
+    margin: auto;
+}
+
+.udla img {
+    width: 80px;
+    height: 60px;
+    margin: auto;
+}
+
+.estiloletra{
+    text-align: center;
+    font-family: "sans-serif";
+    color: blue;
+}
+.estiloreservado {
+    color:rgb(0, 0, 0);
+        font-family: sans-serif;
+         font: 50;
+        font-weight:bold;
+}
+
+form {
+    margin: auto;
+    width: auto;
+    background-color: rgba(255,255,255,0.5);
+    padding: 20px;
+    border: 1px solid rgba(0,0,0,0.5);
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgba(0,0,0,0.9);
+    background:  #082f8a;
+    color: #fff;
+    padding: 20px;
+    font-weight: 100;
+    font-size: 30px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border-bottom: 5px solid #0053ff;
+}
+
+
+
+input {
+    display: block;
+    padding: 10px;
+    margin: 30px 0;
+    font-size: 80%;
+    margin: auto;
+}
+
+    input[type="submit"] {
+        background: linear-gradient(#0053ff,#033190);
+        border: 0.1px;
+        color: #fff;
+        opacity: 0.8;
+        cursor: pointer;
+        border-radius: 20px;
+        margin-bottom: 0;
+        margin: auto;
+    }
+
+        input[type="submit"]:hover {
+            opacity: 1;
+        }
+
+        input[type="submit"]:active {
+            transform: scale(0.95);
+        }
+
+@media (max-width:768px) {
+    form {
+        width: 75%;
+    }
+}
+
+@media (max-width:480px) {
+    form {
+        width: 95%;
+    }
+}
